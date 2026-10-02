@@ -9,14 +9,14 @@ LAPRAK 1
 Repository ini dibuat untuk tugas praktikum matematika diskrit, Repository ini juga berisi 8 project studi kasus pada Python untuk menerapkan logika Boolean dalam berbagai kondisi sederhana.
 
 ## Studi Kasus
-- sudah mandi
-- sudah belajar
-- berangkat kuliah
-- hujan
-- tugas selesai
-- makan
-- motor
-- belajar
+- Mau Main Keluar
+- Mau Tidur
+- Berangkat Kuliah
+- Cari Alesan Nggak Keluar
+- Boleh Istirahat
+- Mau Beli Makanan
+- Naik Motor atau Jalan Kaki
+- Pilih Nonton atau Belajar
 
   ## Alur Materi
 Boolean
